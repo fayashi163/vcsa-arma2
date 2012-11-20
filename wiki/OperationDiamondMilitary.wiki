@@ -134,7 +134,7 @@ Armor.Bde
 
 3*Infantry.Bde
 
- *1.2.3 Molatia Militia* 
+* 1.2.3 Molatia Militia *
 
 9*Infantry.Btn
 
