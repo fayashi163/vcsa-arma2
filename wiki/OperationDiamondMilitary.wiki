@@ -8,9 +8,9 @@
 
 Bomber Squadron (6*Su-24)
 
-Fighter Squadron (15* Mig-21)
+Fighter Squadron (15*Mig-21)
 
-Transport Squadron (8* Gazelle)
+Transport Squadron (8*Gazelle)
 
 * 1.1.2 Molatia Army * 
 
@@ -24,11 +24,11 @@ Armor.Bde
 
 ﹒﹒HQ (1*T-72)
 
-﹒﹒3* Armor.Coy
+﹒﹒3*Armor.Coy
 
 ﹒﹒﹒HQ (1*T-72)
 
-﹒﹒﹒3* Armor.Plt (3*T-72)
+﹒﹒﹒3*Armor.Plt (3*T-72)
 
 ﹒2* Armor.Btn (T-55)
 
@@ -42,15 +42,15 @@ Armor.Bde
 
 ﹒ Mechanised Infantry.Btn
 
-﹒﹒HQ (1* BMP-2)
+﹒﹒HQ (1*BMP-2)
 
 ﹒﹒3* Mechanised Infantry.Coy
 
-﹒﹒﹒HQ (1* BMP-2)
+﹒﹒﹒HQ (1*BMP-2)
 
 ﹒﹒﹒3* Mechanised Infantry.Plt 
 
-﹒﹒﹒﹒3* Mechanised Infantry.Sqd (1* BMP-2)
+﹒﹒﹒﹒3* Mechanised Infantry.Sqd (1*BMP-2)
 
 ﹒Artillery.Btn
 
@@ -62,9 +62,9 @@ Armor.Bde
 
 ﹒﹒1*Air Defence Missile.Coy(27*9K32)
 
-﹒Commando.Coy(24* Gazelle)
+﹒Commando.Coy(24*Gazelle)
 
-﹒Gunship Squadron (8* Gazelle(CAS))
+﹒Gunship Squadron (8*Gazelle(CAS))
 
 ﹒Recon.Coy
 
@@ -80,23 +80,23 @@ Infantry.Bde
 
 ﹒Signal.Coy
 
-﹒3* Infantry.Btn
+﹒3*Infantry.Btn
 
 ﹒﹒HQ
 
-﹒﹒3* Infantry.Coy
+﹒﹒3*Infantry.Coy
 
 ﹒﹒﹒HQ
 
-﹒﹒﹒3* Infantry.Plt 
+﹒﹒﹒3*Infantry.Plt 
 
-﹒﹒﹒﹒3* Infantry.Sqd
+﹒﹒﹒﹒3*Infantry.Sqd
 
 ﹒﹒﹒MG.Plat(6*PKM)
 
 ﹒﹒Mortar.Coy(6*2B14)
 
-﹒﹒Weapon.Coy(DSHK*3 ,SPG-9*3)
+﹒﹒Weapon.Coy(3*DSHK ,3*SPG-9)
 
 ﹒﹒Sniper.Section
 
@@ -108,19 +108,19 @@ Infantry.Bde
 
 ﹒Medic.Coy
 
-* 1.1.3 Molatia Militia * 
+* 1.1.3 Molatia Militia *
 
 Infantry.Btn
 
 ﹒3*Infantry.Coy
 
-﹒﹒3* Infantry.Plt
+﹒﹒3*Infantry.Plt
 
-﹒﹒﹒3* Infantry.Sqd
+﹒﹒﹒3*Infantry.Sqd
 
- *1.2 Formations* 
+ *1.2 Formations*
 
-* 1.2.1 Molatia Airforce * 
+* 1.2.1 Molatia Airforce *
 
 Bomber Squadron
 
@@ -132,7 +132,7 @@ Transport Squadron
 
 Armor.Bde
 
-3* Infantry.Bde
+3*Infantry.Bde
 
  *1.2.3 Molatia Militia* 
 
@@ -144,9 +144,9 @@ Armor.Bde
 
 * 2.1.1 Afrene Airforce * 
 
-Fighter/Attacker Squadron (12* Viggen)
+Fighter/Attacker Squadron (12*Viggen)
 
-Transport Squadron (8* Squirrel)
+Transport Squadron (8*Squirrel)
 
 * 2.1.2 Afrene Army * 
 
@@ -158,35 +158,35 @@ Mechanised.Bde
 
 ﹒Tank.Btn
 
-﹒﹒HQ (1* Leopard 1A5)
+﹒﹒HQ (1*Leopard 1A5)
 
-﹒﹒3* Tank.Coy
+﹒﹒3*Tank.Coy
 
-﹒﹒﹒HQ (1* Leopard 1A5)
+﹒﹒﹒HQ (1*Leopard 1A5)
 
-﹒﹒﹒3* Tank.Plt (4* Leopard 1A5)
+﹒﹒﹒3*Tank.Plt (4*Leopard 1A5)
 
 ﹒3* Infantry.Btn
 
 ﹒﹒HQ
 
-﹒﹒3* Infantry.Coy
+﹒﹒3*Infantry.Coy
 
 ﹒﹒﹒HQ
 
-﹒﹒﹒3* Infantry.Plt 
+﹒﹒﹒3*Infantry.Plt 
 
-﹒﹒﹒﹒3* Infantry.Sqd
+﹒﹒﹒﹒3*Infantry.Sqd
 
 ﹒﹒﹒MG.Plat(6*PKM)
 
 ﹒﹒Mortar.Coy(6*M252)
 
-﹒﹒Weapon.Coy(M2HB*3 ,TOW*3)
+﹒﹒Weapon.Coy(3*M2HB,3*TOW)
 
 ﹒﹒Sniper.Section
 
-﹒Gunship Squadron (8* Squirrel(CAS))
+﹒Gunship Squadron (8*Squirrel(CAS))
 
 ﹒Artillery.Btn
 
@@ -210,23 +210,23 @@ Motorized.Bde
 
 ﹒Signal.Coy
 
-﹒3* Infantry.Btn
+﹒3*Infantry.Btn
 
 ﹒﹒HQ
 
-﹒﹒3* Infantry.Coy
+﹒﹒3*Infantry.Coy
 
 ﹒﹒﹒HQ
 
-﹒﹒﹒3* Infantry.Plt 
+﹒﹒﹒3*Infantry.Plt 
 
-﹒﹒﹒﹒3* Infantry.Sqd
+﹒﹒﹒﹒3*Infantry.Sqd
 
 ﹒﹒﹒MG.Plat(6*PKM)
 
 ﹒﹒Mortar.Coy(6*M252)
 
-﹒﹒Weapon.Coy(M2HB*3 ,TOW*3)
+﹒﹒Weapon.Coy(3*M2HB,3*TOW)
 
 ﹒﹒Sniper.Section
 
@@ -250,4 +250,4 @@ Transport Squadron
 
 Mechanised.Bde
 
-2* Motorized.Bde
+2*Motorized.Bde
