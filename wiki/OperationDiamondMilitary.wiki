@@ -30,27 +30,27 @@ Armor.Bde
 
 ﹒﹒﹒3*Armor.Plt (3*T-72)
 
-﹒2* Armor.Btn (T-55)
+﹒2*Armor.Btn (T-55)
 
 ﹒﹒HQ (1*T-55)
 
-﹒﹒3* Armor.Coy
+﹒﹒3*Armor.Coy
 
 ﹒﹒﹒HQ (1*T-55)
 
-﹒﹒﹒3* Armor.Plt (3*T-55)
+﹒﹒﹒3*Armor.Plt (3*T-55)
 
 ﹒ Mechanised Infantry.Btn
 
 ﹒﹒HQ (1*BMP-2)
 
-﹒﹒3* Mechanised Infantry.Coy
+﹒﹒3*Mechanised Infantry.Coy
 
 ﹒﹒﹒HQ (1*BMP-2)
 
-﹒﹒﹒3* Mechanised Infantry.Plt 
+﹒﹒﹒3*Mechanised Infantry.Plt 
 
-﹒﹒﹒﹒3* Mechanised Infantry.Sqd (1*BMP-2)
+﹒﹒﹒﹒3*Mechanised Infantry.Sqd (1*BMP-2)
 
 ﹒Artillery.Btn
 
@@ -136,7 +136,7 @@ Armor.Bde
 
  *1.2.3 Molatia Militia* 
 
-9* Infantry.Btn
+9*Infantry.Btn
 
 = 2 Afrene =
 
