@@ -1,0 +1,39 @@
+#summary Operation Diamond
+
+= Member =
+
+  * Leader: VCSA
+
+  * Developer: VCSA
+
+= Required Addons =
+
+  * ARMA 2 CO 1.60
+
+  * Mod:@duala;@duala_vcsa;@VCSA
+
+= Files =
+
+Files	Date	Size
+		
+= Features =
+
+= Roadmap =
+
+ * Mission 01:100%
+
+ * Mission 02:10%
+
+ * Mission 03:0%
+
+= Versions =
+
+Version 1.0 (2012.11.20)
+
+ * Changed
+
+ * Fixed
+
+ * Added
+
+ * Removed							
