@@ -2,9 +2,9 @@
 
 = 1 Molatia =
 
- *1.1 Organization* 
+* 1.1 Organization *
 
- *1.1.1 Molatia Airforce* 
+* 1.1.1 Molatia Airforce *
 
 Bomber Squadron (6*Su-24)
 
@@ -12,7 +12,7 @@ Fighter Squadron (15* Mig-21)
 
 Transport Squadron (8* Gazelle)
 
- *1.1.2 Molatia Army* 
+* 1.1.2 Molatia Army * 
 
 Armor.Bde
 
@@ -108,7 +108,7 @@ Infantry.Bde
 
 ﹒Medic.Coy
 
- *1.1.3 Molatia Militia* 
+* 1.1.3 Molatia Militia * 
 
 Infantry.Btn
 
@@ -120,7 +120,7 @@ Infantry.Btn
 
  *1.2 Formations* 
 
- *1.2.1 Molatia Airforce* 
+* 1.2.1 Molatia Airforce * 
 
 Bomber Squadron
 
@@ -128,7 +128,7 @@ Bomber Squadron
 
 Transport Squadron
 
- *1.2.2 Molatia Army* 
+* 1.2.2 Molatia Army * 
 
 Armor.Bde
 
@@ -140,15 +140,15 @@ Armor.Bde
 
 = 2 Afrene =
 
- *2.1 Organization* 
+* 2.1 Organization * 
 
- *2.1.1 Afrene Airforce* 
+* 2.1.1 Afrene Airforce * 
 
 Fighter/Attacker Squadron (12* Viggen)
 
 Transport Squadron (8* Squirrel)
 
- *2.1.2 Afrene Army* 
+* 2.1.2 Afrene Army * 
 
 Mechanised.Bde
 
@@ -238,15 +238,15 @@ Motorized.Bde
 
 ﹒Medic.Coy
 
- *2.2 Formations* 
+* 2.2 Formations * 
 
- *2.2.1 Afrene Airforce* 
+* 2.2.1 Afrene Airforce * 
 
- *2*Fighter/Attacker Squadron
+2*Fighter/Attacker Squadron
 
 Transport Squadron
 
- *2.2.2 Afrene Army* 
+* 2.2.2 Afrene Army * 
 
 Mechanised.Bde
 
