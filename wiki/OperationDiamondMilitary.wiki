@@ -118,7 +118,7 @@ Infantry.Btn
 
 ﹒﹒﹒3*Infantry.Sqd
 
- *1.2 Formations *
+*1.2 Formations *
 
 * 1.2.1 Molatia Airforce *
 
@@ -166,7 +166,7 @@ Mechanised.Bde
 
 ﹒﹒﹒3*Tank.Plt (4*Leopard 1A5)
 
-﹒3* Infantry.Btn
+﹒3*Infantry.Btn
 
 ﹒﹒HQ
 
