@@ -118,7 +118,7 @@ Infantry.Btn
 
 ﹒﹒﹒3*Infantry.Sqd
 
- *1.2 Formations*
+ *1.2 Formations *
 
 * 1.2.1 Molatia Airforce *
 
