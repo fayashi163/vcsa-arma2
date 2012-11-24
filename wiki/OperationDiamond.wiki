@@ -8,9 +8,37 @@
 
 = Required Addons =
 
-  * ARMA 2 CO 1.60
 
-  * Mod:@duala;@duala_vcsa;@VCSA
+  * 1. ARMA 2 CO 1.60
+
+  * 2. @duala (http://www.armaholic.com/page.php?id=9150&highlight=DUALA)
+
+Only keep the addons below and others should be shield.
+
+afrenian__cars
+
+brg_africa
+
+ibr_as350
+
+ibr_dtowns
+
+ibr_dualaflags
+
+ibr_plants
+
+ibr_steyr
+
+isladuala
+
+pracs_su24fencer
+
+ui_duala
+
+  * 3. @duala_vcsa
+
+  * 4. @VCSA
+
 
 = Files =
 
