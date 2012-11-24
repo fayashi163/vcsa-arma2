@@ -13,27 +13,27 @@
 
   * 2. @duala (http://www.armaholic.com/page.php?id=9150&highlight=DUALA)
 
-Only keep the addons below and others should be shield.
+  Only keep the addons below and others should be shield.
 
-afrenian__cars
+  afrenian__cars.pbo
 
-brg_africa
+  brg_africa.pbo
 
-ibr_as350
+  ibr_as350.pbo
 
-ibr_dtowns
+  ibr_dtowns.pbo
 
-ibr_dualaflags
+  ibr_dualaflags.pbo
 
-ibr_plants
+  ibr_plants.pbo
 
-ibr_steyr
+  ibr_steyr.pbo
 
-isladuala
+  isladuala.pbo
 
-pracs_su24fencer
+  pracs_su24fencer.pbo
 
-ui_duala
+  ui_duala.pbo
 
   * 3. @duala_vcsa
 
