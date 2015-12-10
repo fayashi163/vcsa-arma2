@@ -1,0 +1,35 @@
+# 1 Introduction #
+
+Isla Duala is a fictional 100km2 African island divided into two countries: Molatia on North and Afrene on South. Border runs along the river and there is a constant tension between both countries. Both countries are backed by different developed world countries that abuse their natural resources: oil and diamonds in Molatia and tourism (natural beauty) in Afrene. Recent discovery of rich oil reserves on Hazena (NW Molatia) ignited the old hatred between countries and Molatia is using fresh income to boost its military. Molatia is known to amass troops with fast conscription and training in all settlements and bases. Every male that reaches 13-year of age is sent to a training camp to get familiar with assault rifles and army discipline. Aggressive Molatia is ready to invade weaken Afrene. but US/Europe forces with UN are there to keep the balance and enforce peace.
+
+
+# 2 History #
+
+Duala split into two countries in 1993 and civil war lasted for 12 years costing many lives. After that UN troops managed to bring end to the chaos and in 2009 the borders came back under control of local armies on both sides. Marks of previous decade-long war can be seen even today and no-man zone still divides both countries with high fence running all along the border. Only few of the natives dare to travel across. Buffer zone limits the possibility of new conflicts.
+But current peace can be very decieving. With recent diamond and oil findings in Molatia their war machine is growing. European and US peacekeeping forces are currently present in Afrene in small numbers, but this might change very soon. Russia and China are in close business ties with Molatia and Afrene is mainly providing services for US and European tourists. War between Molatia and Afrene might be just around the corner...
+
+# 3 Nature #
+
+African vegetation can be seen everywhere: towns, savannah, desert and jungle. Duala is pretty dry land, but some areas near water feature lush forests and thick greenery. Savannah covers most of the land, while sand and mud is around river beds and beaches. There are no really large hills, rare ones feature rock formations. Guys travelling savannah will find shelter from the sun under acacia trees. Some water rich areas feature thick undergrowth with large datepalm trees and other palms and bushes. There is a vulcano on NW island of Hazena(Rep. of Molatia) but it is resting for many years now.
+
+# 4 Culture #
+
+Many Molatians speak French and lately, interesting, Russian language. Russia invested a lot and many imported Russian workers found new home here. Official language remains French. Molatians do not like foreigners, but are satisfied with Chinese and Russian companies that operate there as they provide work possibilities for them. They hate Westerners.
+
+Afrenians speak quite well English but official language is Afrikaans. They are very good hosts for various touristic activities. They love Europeans and US tourists.
+
+# 5 Border #
+
+Central river dried up in the hot recent months so many new passages are possible. UN set a fence border on Molatian side and a substantial buffer zone is in place in central and East regions.  Town of Numbo recieves an occasional mortar shelling.
+
+There's no confirmation on mine fields, but in decade long war a lot of them were placed and later removed by international mine clearing teams. Afrene built a wall around a border town on East in order to stop Molatian terrorists travelling around. Town of Ursana is on constant alert and is guarded by walls. Both sides also have powerful air radars covering most valleys. Afrene set up a heliport near border to stop smuggling operations. Molatia uses helicopters stationed far North in safe cover of thick jungle. There is a rumor that jungle outposts also house Russian instructors training local troops, but there is no official word on that.
+
+On West side there is a lush green island in control of Afrene, but Molatia is provoking by sending in commandos to its jungle - main reason is main road ambush & recon. Afrene set a new base on top of the highest hill with a small helipad. When they built another radar station overlooking the Molatian Town of Kwako, Molatia launched a guided bomb attack in the cover of the darkness and took out the radar building.
+
+There are several border crossings that are usually manned by a small guard team.
+
+# 6 Settlements #
+
+Both Afrene and Molatia have capitol towns: Kinsella and Balabango. Slums can be found in both as majority of people living on Duala are very poor. Smaller towns feature markets, industrial compounds, rent houses, offices, etc. All towns and villages are marked on map. Soccer is a popular sport on Duala, so governments built at least 4 new fields to host matches.
+
+Highway is connecting both Capital Towns and crosses the border at the main river pass. Both countries paved the majority of their roads, so travelling is faster in comparison with other African countries. An European company got hired in 2011 by both companies to build two long bridges: one connecting Hazena with Caspal-Swonto and other Vixena with Kinsella. They did it in record time.
